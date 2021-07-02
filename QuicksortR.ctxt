@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=QuicksortR
+comment0.text=\n\ Write\ a\ description\ of\ QuicksortR\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=A\ p\ r
+comment1.target=int\ partition(int[],\ int,\ int)
+comment2.params=A\ p\ r
+comment2.target=void\ sort(int[],\ int,\ int)
+comment3.params=number\ length
+comment3.target=java.lang.String\ zerofill(int,\ int)
+numComments=4
